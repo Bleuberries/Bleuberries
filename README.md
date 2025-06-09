@@ -34,6 +34,7 @@
 - [LinkedIn] www.linkedin.com/in/mina-kumai
 - [Email me] Mylastnameiskumai@gmail.com  
 - [Instagram] Bleuberrieroses
+- Notion Planner/Portfolio https://www.notion.so/Coding-Weekly-Planner-2095bcd461c080a3b6effeed77c84881
 
 
 
