@@ -4,10 +4,10 @@
 ---
 
 ### 🔭 I’m currently working on:
-- Learning to build iOS apps with Swift and Xcode
-- Rebuilding confidence through small, meaningful projects
-- Exploring game development concepts from both the design and programming sides
-
+- Building a simple iOS app in SwiftUI
+- Practicing HTML/CSS basics on the side.
+- Keeping track of my growth in Notion 📒
+  
 ---
 
 ### 🌱 I’m currently learning:
