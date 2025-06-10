@@ -17,24 +17,24 @@
 
 ---
 
-### 👯 I’m looking to collaborate on:
+### 👯 I’m looking to collaborate on: <br/> 
 - Beginner-friendly game or app prototypes
 - Small creative projects where I can grow and contribute at my own pace
 
 ---
 
-### 🤔 I’m looking for help with:
+### 🤔 I’m looking for help with: <br/>
 - Improving my confidence in building projects from scratch
 - Tips on managing both school + personal learning goals
 - Guidance on structuring small self-learning roadmaps
 
 ---
 
-### 📫 How to reach me:
+### 📫 How to reach me: <br/>
 - [LinkedIn] www.linkedin.com/in/mina-kumai
 - [Email me] Mylastnameiskumai@gmail.com  
 - [Instagram] https://www.instagram.com/bleuberrieroses/
-- Notion Planner/Portfolio https://www.notion.so/Coding-Weekly-Planner-2095bcd461c080a3b6effeed77c84881
+- [Notion Planner/Portfolio] https://www.notion.so/Coding-Weekly-Planner-2095bcd461c080a3b6effeed77c84881
 
 ---
 
